@@ -12,6 +12,9 @@
 .bg-preloader-image {
   background-image: url('./assets/pre.svg');
 }
+.dark-bg-preloader-image {
+  background-image: url('./assets/darkpre.svg');
+}
 
 .transition-opacity {
   transition: opacity 0.5s ease;

@@ -1,10 +1,10 @@
 <!-- By Sam Herbert (@sherb), for everyone. More @ http://goo.gl/7AJzbL -->
 <!-- Todo: add easing -->
-<svg width="1000" height="1000" viewBox="0 0 57 57" xmlns="http://www.w3.org/2000/svg" stroke="#8c0fe0">
+<svg width="1000" height="1000" viewBox="0 0 57 57" xmlns="http://www.w3.org/2000/svg" stroke="#ddbef1">
     <g fill="none" fill-rule="evenodd">
         <g transform="translate(1 1)" stroke-width="2">
-            <circle cx="25" cy="27" r="15" stroke="#8c0fe0" stroke-width="2"/>
-            <circle cx="5" cy="50" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="25" cy="27" r="15" stroke="#ddbef1" stroke-width="2"/>
+            <circle cx="5" cy="50" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;5;50;50"
@@ -16,7 +16,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="27" cy="5" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="27" cy="5" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      from="5" to="5"
@@ -30,7 +30,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="49" cy="50" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="49" cy="50" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;50;5;50"
@@ -43,7 +43,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="5" cy="50" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="5" cy="50" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;5;50;50"
@@ -55,7 +55,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="27" cy="5" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="27" cy="5" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      from="5" to="5"
@@ -69,7 +69,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="49" cy="50" r="5" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="49" cy="50" r="5" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;50;5;50"
@@ -82,7 +82,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="5" cy="50" r="15" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="5" cy="50" r="15" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;5;50;50"
@@ -94,7 +94,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="27" cy="5" r="15" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="27" cy="5" r="15" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      from="5" to="5"
@@ -108,7 +108,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="49" cy="50" r="15" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="49" cy="50" r="15" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;50;5;50"
@@ -133,7 +133,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="27" cy="5" r="25" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="27" cy="5" r="25" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      from="5" to="5"
@@ -147,7 +147,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
-            <circle cx="49" cy="50" r="25" stroke="#8c0fe0" stroke-width="2">
+            <circle cx="49" cy="50" r="25" stroke="#ddbef1" stroke-width="2">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
                      values="50;50;5;50"
