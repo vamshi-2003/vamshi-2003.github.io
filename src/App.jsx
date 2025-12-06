@@ -11,7 +11,7 @@ import Contacttoggle from "./buttons/contact";
 import Hometoggle from "./buttons/hometoggle";
 import ScrollToTop from "./components/ScrollToTop";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
