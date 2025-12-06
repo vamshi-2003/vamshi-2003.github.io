@@ -33,7 +33,7 @@ function Hometoggle() {
       >
         <Link
           className="text-3xl display:center md:text-3xl"
-          to="/#home" // Updated link with hash
+          to="/home" // Updated link with hash
         >
           <h1><b>V</b></h1>
         </Link>
